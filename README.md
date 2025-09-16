@@ -1,7 +1,7 @@
 # CPQ AI Agent
 ## Query-Centric RAG System for Enterprise Sales Automation
 
-![CPQ AI Agent](./images/CPQ_AI_Agent_Workflow.jpg)
+![CPQ AI Agent](./docs/images/CPQ_AI_Agent_Workflow.jpg)
 
 ---
 
@@ -146,5 +146,6 @@ For questions about implementation, customization, or enterprise deployment, ple
 This project is proprietary software designed for enterprise CPQ automation. Contact the author for licensing and usage terms.
 
 ---
+
 
 *Built with ❤️ for enterprise sales teams who deserve better than manual CPQ processes.*
