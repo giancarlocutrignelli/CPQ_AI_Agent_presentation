@@ -48,10 +48,11 @@ A conversational RAG-driven AI Agent managing the complete CPQ workflow with:
 ```
 CPQ_AI_Agent/
 ├── README.md                                    # Project documentation
-├── CPQ_AI_Agent_v2.html                        # Interactive presentation
-└── images/                                     # Visual assets
-    ├── RAG_Knowledge_Builder_Workflow.jpg      # RAG system architecture
-    └── CPQ_AI_Agent_Workflow.jpg              # AI agent workflow
+├── CPQ_AI_Agent_Cutrignelli.html                # Interactive presentation
+├── CPQ_AI_Agent_Cutrignelli_complete.html       # Interactive presentation including commercial offer
+└── images/                                      # Visual assets
+    ├── RAG_Knowledge_Builder_Workflow.jpg       # RAG system architecture
+    └── CPQ_AI_Agent_Workflow.jpg                # AI agent workflow
 ```
 
 ---
@@ -86,7 +87,7 @@ The presentation includes a **live conversation demo** showcasing:
 - Business case analysis with margin calculations
 - Professional quote output with ordering codes
 
-**View the presentation**: Open `CPQ_AI_Agent_v2.html` in your browser for the full interactive experience.
+**View the presentation**: Open `CPQ_AI_Agent_Cutrignelli.html` in your browser for the full interactive experience.
 
 ---
 
@@ -149,3 +150,4 @@ This project is proprietary software designed for enterprise CPQ automation. Con
 
 
 *Built with ❤️ for enterprise sales teams who deserve better than manual CPQ processes.*
+
